@@ -17,4 +17,5 @@ def method(n):
         n /= 10
     return result
 print method(i)
-        
+       
+one------------------------------------
